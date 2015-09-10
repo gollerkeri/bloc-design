@@ -1,7 +1,7 @@
 # Blocbox Competitive Analysis
 9/9/15
 
-Based on Blocbox survey results, competitors include: email, browser, Evernote and Pocket. For this analysis, we will quickly look at the strengths and weaknesses of each of these competitors.
+Based on Blocbox survey results, competitors include: email, browser, Evernote and Pocket. For this analysis, we will look at the strengths and weaknesses of each of these competitors.
 
 ###Email
 ####Strengths:
