@@ -7,6 +7,7 @@ Based on Blocbox survey results, competitors include: email, browser, Evernote a
 ####Strengths:
 * Ubiquitous, multi-device access
 * Easy to access. User typically already logged into their email service
+* 
 ####Weaknesses:
 * Easy to lose content. Users indicated saving links and other useful information in draft form and sometimes losing draft emails
 * Hard to search / recover older data since it can get lost in the overall email workflow
