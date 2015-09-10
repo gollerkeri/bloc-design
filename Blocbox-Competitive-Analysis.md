@@ -44,4 +44,4 @@ Based on Blocbox survey results, competitors include: email, browser, Evernote a
 ###Implications for Blocbox
 * Mobile-first design is table stakes
 * Existing productivity apps seem to either solve for content creation really well, or content saving really well, but not both
-* From an MVP perspective, it may be necessary to pick which user functionality to focus on first
+* From an MVP perspective, it may be necessary to pick which of these two broad areas to focus on first
