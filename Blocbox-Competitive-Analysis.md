@@ -1,7 +1,7 @@
 # Blocbox Competitive Analysis
 9/9/15
 
-Based on Blocbox survey results, competitors include: email, browser, Evernote and Pocket. For this analysis, I want to pick email, browser and Pocket as the competitors on whom to conduct a SWOT analysis.
+Based on Blocbox survey results, competitors include: email, browser, Evernote and Pocket. For this analysis, we will quickly look at the strengths and weaknesses of each of these competitors.
 
 ###Email
 ####Strengths:
@@ -15,7 +15,27 @@ Based on Blocbox survey results, competitors include: email, browser, Evernote a
 ####Strengths:
 * Most frequently cited tool for saving links and content
 * Ease of use, frictionless
+
 ####Weaknesses:
 * Not searchable
 * Not accessible across devices
 * Not suitable for some tasks like To Do Lists, note taking
+
+###Pocket
+####Strengths:
+* Multi-device, including simple browser plug-in and hooks for other apps like Twitter
+* Easy to search content
+* New content discovery features, curated to user's interests (unique among all competitors identified)
+
+####Weaknesses:
+* Similar to Browser, not suitable for content creation tasks (To Do lists, note taking)
+* Requires separate credentials to log in
+
+###Evernote
+####Strengths:
+* Most cited app for note taking
+* Multi-device
+* Can handle tracking links / images / content that users want to save
+
+####Weaknesses:
+* Requires a separate app on smartphone and other mobile devices
