@@ -1,4 +1,4 @@
-Card Statement 3.0
+## Card Statement 3.0
 
 The objective is to re-imagine the customer experience for the monthly credit or debit card statement.
 
@@ -12,3 +12,9 @@ The goal here is to re-invent the monthly statement to make it something engagin
 * personalized?
 * informative?
 * engaging?
+
+The solution is to convert a dry list of transactions with hard-to-decipher merchant names into a narrative of the customer's payments behavior in the past month. Rather than a table, a visualization will summarize monthly expenses. For example, a map view or a category view (groceries vs. restaurants vs. clothes, etc.). 
+
+Second, with customer permission, we can pull in contextual data like relevant Google Photos (with a similar timestamp / geotag) to help remind the customer of the things they experienced and paid for in the past month (e.g., a mash-up of customer-generated photos at a live concert combined with the ticket purchase, dinner and drinks paid for night of the concert).
+
+Third, contextual information / advice will be included. For example, month-on-month trends or outliers. E.g., your Comcast bill is usually $90, but this month it's $120, just wanted to make sure that looks right to you. Or, you spend $200 on Starbucks this month, usually you only spend $80. Go easy on the coffee! This is Mint-lite functionality.
